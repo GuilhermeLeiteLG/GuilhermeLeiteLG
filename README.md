@@ -6,7 +6,8 @@ Olá! Sou Luis Guilherme da Silva Leite, um entusiasta da tecnologia e estudante
 ## Habilidades 🚀
 - Habilidades avançadas em Windows, Pacote Office
 - Conhecimentos intermediários em HTML, CSS, Power BI
-- Certificado em RPA Avançado
+- Certificado em RPA
+- Certificado Google Cloud Foundation 
 
 ## Linguagens de Programação 🖥️
 - Java
@@ -19,6 +20,6 @@ Olá! Sou Luis Guilherme da Silva Leite, um entusiasta da tecnologia e estudante
   ![SQL](https://img.shields.io/badge/-SQL-red)
 
 ## Contato 📞📧🔗
-- Telefone: (011) 998839978
+- Telefone: (11) 998839978
 - E-mail: Guilherme_leitelg@hotmail.com
 - LinkedIn: [Luis Guilherme da Silva Leite](https://www.linkedin.com/in/luisguilhermeleite/)
